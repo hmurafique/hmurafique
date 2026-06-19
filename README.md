@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Nearly **3 years of experience** as a DevOps/Cloud Engineer at **Anemoia**, Islamabad 🇵🇰
-- ☁️ Multi-cloud practitioner — **AWS · GCP · Azure**
-- 🛡️ Passionate about **DevSecOps** — integrating security at every stage of the pipeline
-- 🚀 Currently building a hands-on **DevOps portfolio** covering real-world architectures end-to-end
-- 💼 Open to **DevOps/Cloud Engineer** roles — actively exploring opportunities in **Saudi Arabia & remote**
+- 🔭 Nearly **3 Years of Experience** as a DevOps/CloudOps Engineer 
+- ☁️ Multi-Cloud Practitioner — **AWS · Azure · GCP**
+- 🛡️ Passionate about **DevSecOps** — Integrating Security at every stage of the Pipeline
+- 🚀 Currently building a hands-on **DevOps Portfolio** covering real-world architectures end-to-end
+- 💼 Open to **DevOps/Cloud Engineer** roles — actively exploring opportunities
 - 🐳 DockerHub: [hmurafique93](https://hub.docker.com/u/hmurafique93)
 
 ---
